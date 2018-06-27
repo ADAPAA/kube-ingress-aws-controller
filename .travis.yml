@@ -1,8 +1,7 @@
 dist: trusty
 
 os:
-- redhat
-- 
+- linux 
 
 language: go
 
